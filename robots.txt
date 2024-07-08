@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ineatchur.github.io/sitemap
+Sitemap: https://ineatchur.github.io/app/sitemap
+Sitemap: https://ineatchur.github.io/assets/sitemap
+Sitemap: https://ineatchur.github.io/css/sitemap
+Sitemap: https://ineatchur.github.io/includes/sitemap
+Sitemap: https://ineatchur.github.io/item/sitemap
+Sitemap: https://ineatchur.github.io/src/sitemap
